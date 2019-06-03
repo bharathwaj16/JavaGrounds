@@ -1,0 +1,5 @@
+Hello and Welcome to Java Grounds!
+
+In Java Grounds, you will see the basic coding practice examples for the concepts of Core Java & Java 8. 
+
+Thanks for visiting.
