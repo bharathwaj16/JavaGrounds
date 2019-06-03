@@ -11,5 +11,6 @@ public class CalculatorMain {
 		cs.multiply(234, 67);
 		cs.divide(44, 8);
 		cs.percentage(22, 9);
+		cs.piFunction(9);
 	}
 }

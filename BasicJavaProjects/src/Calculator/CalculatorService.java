@@ -26,4 +26,8 @@ public class CalculatorService {
 
 		System.out.println(a%b);
 	}
+	
+	public void piFunction(int a) {
+		System.out.println(a*3.14);
+	}
 }
