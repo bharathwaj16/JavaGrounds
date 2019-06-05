@@ -1,0 +1,10 @@
+1. Import the package
+2. Load and register the driver
+3. Create a connection
+4. Create a statement
+5. Execute the query
+6. Process the results
+7. Close the connection
+
+
+For point #2, load the mysql connector jar into the project else it will throw ClassNotFoundException. Usually the driver name is "com.mysql.jdbc.Driver" but since the version of the jar is 8.0.16, the driver class is "com.mysql.cj.jdbc.Driver"
